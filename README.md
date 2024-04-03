@@ -1,6 +1,6 @@
 # esphome-fence-gate-sensor
 This is an ESPHome configuration file for implementing a fence gate sensor.
-![alt text](https://github.com/cyclone182/esphome-fence-gate-sensor/blob/main/ESPHome-fence-gate-sensor.jpg)
+
 
 
 
