@@ -1,7 +1,7 @@
 # esphome-fence-gate-sensor
 This is an ESPHome configuration file for implementing a fence gate sensor.
 
-
+<img src="https://github.com/cyclone182/esphome-fence-gate-sensor/blob/main/ESPHome-fence-gate-sensor.jpg" width="200" />
 
 
 <p>The following was done on an ESP8266 board, however it should work with a ESP32 with some tweaking.</p>
