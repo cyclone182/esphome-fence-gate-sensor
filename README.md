@@ -13,4 +13,4 @@ This project uses an ESP board to create a fence gate sensor utilizing the ESPHo
 <p>5. Prepare the config.yaml file from this repository by editing your api key, ota password, and the fallback hotspot AP password.</p>
 <p>6. Upload the config file to your ESP board.</p>
 <p>7. Once the config is loaded, it should take 10s for the blue LED to report Wifi status.</p>
-<p>8. The red and green LED's should now report switch state changes. These changes should also be visible in Homeassistant.</p>
+<p>8. The red and green LED's should now report switch state changes. These changes should also be visible in Homeassistant under the ESPHome integration (not add-on), and under the esp board device that was created. Notice this is also where you will find the restart button.</p>
